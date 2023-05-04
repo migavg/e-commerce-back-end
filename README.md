@@ -1,5 +1,7 @@
 # E-Commerce Backend
 
+https://user-images.githubusercontent.com/119754846/236101911-9644cf26-f8b5-4ec8-b0f3-c324e24f9a17.mp4
+
 ## Description
 
 This week's challenge was to build the backend of an e-commerce site that would get, post, and delete items from an object. I gained a new understanding on how to create certain objects along with how to set up an asynchronous (async and await) promise through certain js files. Setting up tables via models and calling them through certain routes showed to be quite difficult, but my understanding of the relationship between them has grown somewhat. Unfortunately I did not finish this challenge.
@@ -17,6 +19,10 @@ N/A
 ## Credits
 
 N/A
+
+
+
+
 
 ## License
 
